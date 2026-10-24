@@ -306,7 +306,7 @@ export function ConnectSection() {
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="/Shreegopal_resume.pdf" download="Shreegopal_resume.pdf">
+              <a href="/Shreegopal_Dadhich_Resume.pdf" download="Shreegopal_Dadhich_Resume.pdf">
                 Download Resume
               </a>
             </Button>
