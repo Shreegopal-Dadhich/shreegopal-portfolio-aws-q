@@ -176,8 +176,8 @@ export function ExperienceTimeline() {
           <div className="inline-flex flex-col items-center gap-3 p-6 rounded-2xl bg-gradient-to-br from-card/80 to-card/60 border border-border/50 backdrop-blur-sm">
             <p className="text-muted-foreground">Want to learn more about my experience?</p>
             <a
-              href="/Shreegopal_resume.pdf"
-              download="Shreegopal_resume.pdf"
+              href="/Shreegopal_Dadhich_Resume.pdf"
+              download="Shreegopal_Dadhich_Resume.pdf"
               className="inline-flex items-center gap-2 px-5 py-2 bg-gradient-to-r from-primary to-primary/90 text-primary-foreground rounded-xl hover:shadow-lg hover:scale-105 transition-all duration-300 font-medium text-sm"
             >
               Download Full Resume

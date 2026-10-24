@@ -51,8 +51,7 @@ export default function Home() {
             </div>
 
             <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground max-w-4xl mx-auto text-balance leading-relaxed">
-              AWS Cloud & DevOps Engineer with 2+ years experience managing scalable infrastructure for 10M+ users with 99.99% uptime
-
+              AWS Certified Solutions Architect with 3+ years building secure, highly available cloud infrastructure — Kubernetes, Terraform & CI/CD powering platforms for 10M+ users
             </p>
           </div>
 
@@ -102,7 +101,7 @@ export default function Home() {
               asChild
               className="px-8 py-3 text-base font-medium border-primary/30 hover:bg-primary/10 hover:border-primary/50 transition-all duration-200 bg-transparent focus:ring-2 focus:ring-primary/50"
             >
-              <a href="/Shreegopal_resume.pdf" download="Shreegopal_resume.pdf">
+              <a href="/Shreegopal_Dadhich_Resume.pdf" download="Shreegopal_Dadhich_Resume.pdf">
                 <Download className="w-4 h-4 mr-2" />
                 Download Resume
               </a>
